@@ -14,6 +14,7 @@ Smart Application Portal: End-to-end digital application and review.
 Mentorship Hub: Connects beneficiaries with verified mentors.
 Impact Dashboard: Real-time tracking of loans, jobs, and training programs.
 Trust Layer: Verified government-backed links and updates to prevent scams.
+AI Eligibility Advisor: Personalized program recommendations.
 Technologies
 Frontend: Html, react
 Backend: Python, JavaScript, Node.js
